@@ -15,17 +15,20 @@ body {
 .card-container {
   margin: 7.75rem;
   background-color: white;
+  border-radius: 1rem;
 }
 .image-container {
   max-height: 280px;
   position: relative;
   display: block;
   top: 0px;
+  border-radius: 1rem;
 }
 .image-container img {
   max-width: 100%;
   height: auto;
   display: block;
+  border-radius: 1rem;
 }
 .overlay-container {
   position: absolute;
