@@ -93,11 +93,11 @@ hr {
 @media only screen and (max-width: 480px){
     body{
         height: 100vh;
-        padding: 1rem;
+        padding: 0;
         display: flex;
         align-items: center;
     }
     .card-container{
-        margin: 0 2rem;
+       margin: 0 0.2rem;
     }
 }
